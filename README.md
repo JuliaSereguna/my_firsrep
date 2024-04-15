@@ -6,3 +6,6 @@
 
 
 lj,fdbnm ntrcn kjrfkmyj
+
+
+добавили текст в новой ветке NEW
